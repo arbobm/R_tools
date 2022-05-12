@@ -1,6 +1,6 @@
 ### separa arquivos vetoriais tendo uma coluna da tabela de atributos como criterio
 ### funciona com spatialdataframe (sp package) e com spatial feature (sf package)
-### criado por Bruna Arbo Meneses
+### criado por Bruna Arbo Meneses e Lara Gomes Cortes (RAN/ICMBio)
 ### 28/04/2022
 
 ## carrega pacotes ---------------
